@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "TheMuppets/proprietary_vendor_nextbit",
+    "target_path": "vendor/nextbit",
+    "branch": "lineage-15.1"
+  },
+  {
+    "repository": "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "lineage-15.1"
+  },
+  {
+    "repository": "LineageOS/android_kernel_nextbit_msm8992",
+    "target_path": "kernel/nextbit/msm8992",
+    "branch": "lineage-15.1"
+  }
+]
